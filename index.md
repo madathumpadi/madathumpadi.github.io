@@ -1,4 +1,4 @@
-# Vinay Krishnan Thalappath
+# Vinay Krishnan 
 ### Data Science | Software Quality Assurance | Automation
 
 [About](#about-me) | [Projects](#projects) | [Contact](#contact)
