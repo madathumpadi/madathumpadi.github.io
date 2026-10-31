@@ -86,6 +86,26 @@ allocation while communicating uncertainty.
 [View Project Notebook](https://github.com/madathumpadi/madathumpadi.github.io/blob/main/RetailSalesForecasting.ipynb)
 
 
+### U.S. Gasoline Price Prediction
+Explored weekly U.S. regular gasoline prices using energy
+market and economic data from Federal Reserve Economic Data
+(FRED) and the U.S. Energy Information Administration (EIA).
+**Methods:** Cleaned and combined datasets at weekly frequency,
+explored relationships between variables, and compared Random
+Forest, XGBoost, LSTM, and SARIMAX models. Examined the effect
+of adding historical price features.
+**Analysis:** Evaluated predictions using error metrics and
+examined model behavior through feature importance and SHAP.
+The project explores how recent price history and external
+market indicators contribute to predictions.
+**Tools:** Python, pandas, NumPy, scikit-learn, XGBoost,
+TensorFlow/Keras, statsmodels, Matplotlib, and SHAP.
+**Business value:** Demonstrates predictive modeling for
+fuel-cost analysis and planning, while recognizing uncertainty
+from market changes and the timing of data availability.
+[View Project Notebook](https://github.com/madathumpadi/madathumpadi.github.io/blob/main/GasolinePricePrediction.ipynb)
+
+
 ## Contact
 
 [View my GitHub profile](https://github.com/madathumpadi)
