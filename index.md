@@ -29,7 +29,29 @@ data to solve practical business problems.
 
 Project summaries, tools, findings, and links will be added here
 as I develop my portfolio.
+### Global Population Analysis
 
+Combined population and geographic information from a CSV dataset,
+Worldometers web tables, and the REST Countries API to prepare
+data for exploring global demographic patterns.
+
+**Methods:** Standardized country identifiers and data formats,
+checked missing values and duplicates, examined outliers,
+and integrated cleaned datasets using SQLite and SQL joins.
+
+**Analysis:** Created visualizations exploring population by
+country and continent, population density, land area, growth
+rates, median age, and fertility rates.
+
+**Tools:** Python, pandas, NumPy, Requests, pycountry, SQLite,
+Matplotlib, and Seaborn.
+
+**Practical value:** Demonstrates how to transform information
+from different sources into a consolidated dataset for
+demographic research and planning. Differences in reporting
+years and data-cleaning choices require careful interpretation.
+
+[View Project Notebook](https://github.com/madathumpadi/madathumpadi.github.io/blob/main/GlobalPopulationAnalysis.ipynb)
 ## Contact
 
 [View my GitHub profile](https://github.com/madathumpadi)
