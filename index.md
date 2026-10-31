@@ -26,32 +26,48 @@ This portfolio showcases my projects and my progress in using
 data to solve practical business problems.
 
 ## Projects
-
 Project summaries, tools, findings, and links will be added here
 as I develop my portfolio.
-### Global Population Analysis
 
+### Airline Reviews Analysis Using Natural Language Processing
+
+Analyzed a dataset of 23,171 passenger reviews to identify
+airline service problems across seven categories, including
+seat comfort, cabin staff, ground service, and value for money.
+**Methods:** Cleaned the data, explored customer feedback,
+and built seven classification models using TF-IDF and
+Logistic Regression.
+**Results:** On held-out test data, problem-class F1 scores
+ranged from 0.873 to 0.942. Value for Money and Ground Service
+achieved the strongest results. Missing ratings and class
+imbalance were important limitations.
+**Tools:** Python, pandas, NumPy, NLTK, scikit-learn,
+Matplotlib, and WordCloud.
+**Business value:** Demonstrates how automated review analysis
+could help airlines identify recurring customer concerns
+and prioritize service improvements.
+[View Project Notebook](https://github.com/madathumpadi/madathumpadi.github.io/blob/main/AirlineReviewAnalysis.ipynb)
+
+
+### Global Population Analysis
 Combined population and geographic information from a CSV dataset,
 Worldometers web tables, and the REST Countries API to prepare
 data for exploring global demographic patterns.
-
 **Methods:** Standardized country identifiers and data formats,
 checked missing values and duplicates, examined outliers,
 and integrated cleaned datasets using SQLite and SQL joins.
-
 **Analysis:** Created visualizations exploring population by
 country and continent, population density, land area, growth
 rates, median age, and fertility rates.
-
 **Tools:** Python, pandas, NumPy, Requests, pycountry, SQLite,
 Matplotlib, and Seaborn.
-
 **Practical value:** Demonstrates how to transform information
 from different sources into a consolidated dataset for
 demographic research and planning. Differences in reporting
 years and data-cleaning choices require careful interpretation.
-
 [View Project Notebook](https://github.com/madathumpadi/madathumpadi.github.io/blob/main/GlobalPopulationAnalysis.ipynb)
+
+
 ## Contact
 
 [View my GitHub profile](https://github.com/madathumpadi)
