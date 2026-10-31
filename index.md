@@ -26,8 +26,7 @@ This portfolio showcases my projects and my progress in using
 data to solve practical business problems.
 
 ## Projects
-Project summaries, tools, findings, and links will be added here
-as I develop my portfolio.
+
 
 ### Airline Reviews Analysis Using Natural Language Processing
 
@@ -66,6 +65,25 @@ from different sources into a consolidated dataset for
 demographic research and planning. Differences in reporting
 years and data-cleaning choices require careful interpretation.
 [View Project Notebook](https://github.com/madathumpadi/madathumpadi.github.io/blob/main/GlobalPopulationAnalysis.ipynb)
+
+
+### U.S. Retail Sales Forecasting
+Explored monthly U.S. retail sales from January 1992 through
+June 2021 to examine trends and seasonal patterns and compare
+two forecasting approaches.
+**Methods:** Reshaped sales data into a chronological time
+series and built Holt-Winters Exponential Smoothing and
+SARIMA models. Used July 2020–June 2021 as a held-out test
+period and evaluated forecasts using RMSE.
+**Key insight:** Both approaches struggled to capture the
+sharp increase in sales during the test period, illustrating
+the limitations of forecasting when historical patterns change.
+**Tools:** Python, pandas, NumPy, Matplotlib, statsmodels,
+and scikit-learn.
+**Business value:** Demonstrates how to evaluate forecasts
+for demand planning, inventory management, and resource
+allocation while communicating uncertainty.
+[View Project Notebook](https://github.com/madathumpadi/madathumpadi.github.io/blob/main/RetailSalesForecasting.ipynb)
 
 
 ## Contact
