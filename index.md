@@ -27,7 +27,7 @@ achieved the strongest results. Missing ratings and class imbalance were importa
 **Tools:** Python, pandas, NumPy, NLTK, scikit-learn, Matplotlib, and WordCloud.
 **Business value:** Demonstrates how automated review analysis could help airlines identify recurring customer concerns
 and prioritize service improvements.
-[View Project Notebook](https://github.com/madathumpadi/madathumpadi.github.io/blob/main/AirlineReviewAnalysis.ipynb)
+[View Project Notebook](https://github.com/madathumpadi/madathumpadi.github.io/blob/main/AirlineReviewAnalysis_updated.ipynb)
 
 
 ### Global Population Analysis
@@ -40,7 +40,7 @@ rates, median age, and fertility rates.
 **Tools:** Python, pandas, NumPy, Requests, pycountry, SQLite, Matplotlib, and Seaborn.
 **Practical value:** Demonstrates how to transform information from different sources into a consolidated dataset for
 demographic research and planning. Differences in reporting years and data-cleaning choices require careful interpretation.
-[View Project Notebook](https://github.com/madathumpadi/madathumpadi.github.io/blob/main/GlobalPopulationAnalysis.ipynb)
+[View Project Notebook](https://github.com/madathumpadi/madathumpadi.github.io/blob/main/Global%20Population%20Analysis.ipynb)
 
 
 ### U.S. Retail Sales Forecasting
@@ -53,7 +53,7 @@ the limitations of forecasting when historical patterns change.
 **Tools:** Python, pandas, NumPy, Matplotlib, statsmodels, and scikit-learn.
 **Business value:** Demonstrates how to evaluate forecasts for demand planning, inventory management, and resource
 allocation while communicating uncertainty.
-[View Project Notebook](https://github.com/madathumpadi/madathumpadi.github.io/blob/main/RetailSalesForecasting.ipynb)
+[View Project Notebook](https://github.com/madathumpadi/madathumpadi.github.io/blob/main/U.S.%20Retail%20Sales%20Forecasting.ipynb)
 
 
 ### U.S. Gasoline Price Prediction
@@ -66,7 +66,7 @@ The project explores how recent price history and external market indicators con
 **Tools:** Python, pandas, NumPy, scikit-learn, XGBoost, TensorFlow/Keras, statsmodels, Matplotlib, and SHAP.
 **Business value:** Demonstrates predictive modeling for fuel-cost analysis and planning, while recognizing uncertainty
 from market changes and the timing of data availability.
-[View Project Notebook](https://github.com/madathumpadi/madathumpadi.github.io/blob/main/GasolinePricePrediction.ipynb)
+[View Project Notebook](https://github.com/madathumpadi/madathumpadi.github.io/blob/main/Predicting%20U.S.%20Regular%20Gasoline%20Prices.ipynb)
 
 
 ### U.S. Family Credit Card Debt by Income and Age
