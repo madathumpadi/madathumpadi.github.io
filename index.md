@@ -102,6 +102,23 @@ from market changes and the timing of data availability.
 [View Project Notebook](https://github.com/madathumpadi/madathumpadi.github.io/blob/main/GasolinePricePrediction.ipynb)
 
 
+### U.S. Family Credit Card Debt by Income and Age
+How common is credit card debt among U.S. families, and how much do families with debt typically owe? This project uses survey weights
+and all five imputed datasets from the Federal Reserve’s 2022 Survey of Consumer Finances to compare credit card debt by income and age.
+**Key finding:** An estimated 45.22% of U.S. families carried credit card debt. Among families with debt, the weighted median balance
+was $2,942 in 2025 dollars. By age, debt was most common among families whose reference person was 45–54, at 57%.
+[View the Jupyter notebook](https://github.com/madathumpadi/madathumpadi.github.io/blob/main/U.S.%20Family%20Credit%20Card%20Debt.ipynb)
+
+
+### Childcare Affordability Analysis
+This project uses the National Database of Childcare Prices to compare U.S. childcare costs by age group and type of care. It also
+examines how much of median household income families would need to spend on infant care.
+**Key finding** — From 2008 to 2018, center-based childcare prices rose about 22%–23% across the age groups studied, while
+inflation-adjusted median household income rose about 3%.
+[View Project Notebook](https://github.com/madathumpadi/madathumpadi.github.io/blob/main/Childcare%20Affordability%20Analysis.ipynb)
+
+
+
 ## Contact
 
 [View my GitHub profile](https://github.com/madathumpadi)
